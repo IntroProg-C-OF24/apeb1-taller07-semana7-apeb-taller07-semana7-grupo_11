@@ -7,7 +7,7 @@ public class primeraFraccion_1 {
         i = 1;
         n = 6;
         while (i <= n) {
-            System.out.println("" + numerador + '/' + "" + denominador);
+            System.out.println("" + numerador + "/" + "" + denominador);
             numerador = (numerador + 1);
             denominador = (denominador + 1);
             i = i + 1;
